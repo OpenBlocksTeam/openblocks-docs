@@ -1,5 +1,3 @@
-# Home
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/79303186?s=150&v=4">
 </p>
