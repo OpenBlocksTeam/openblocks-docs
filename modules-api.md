@@ -24,7 +24,7 @@ Auth token, basicly api key.
 All modules.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "error": 0,
     "modules": [
@@ -47,7 +47,7 @@ All modules.
 Invalid Request
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "error": 1,
     "message": "Invalid Auth Token."
@@ -57,6 +57,4 @@ Invalid Request
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
