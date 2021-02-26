@@ -18,3 +18,9 @@ theme:
     scheme: slate
     primary: blue
     accent: pink
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tabbed
