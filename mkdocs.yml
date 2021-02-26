@@ -5,9 +5,16 @@ repo_url: https://github.com/OpenBlocksTeam/openblocks-app
 repo_name: OpenBlocksTeam/openblocks-app
 edit_uri: https://github.com/OpenBlocksTeam/openblocks-docs/edit/main/docs/
 
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js
+  - javascripts/config.js
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/default.min.css
+
 theme:
   name: material
   favicon: images/favicon.ico
   palette:
+    scheme: slate
     primary: blue
     accent: pink
