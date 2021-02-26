@@ -1,4 +1,7 @@
 site_name: OpenBlocks Docs
+repo_url: https://github.com/OpenBlocksTeam/openblocks-app
+repo_name: OpenBlocksTeam/openblocks-app
+edit_uri: https://github.com/OpenBlocksTeam/openblocks-docs/edit/main/docs/
 theme:
   name: material
   favicon: images/favicon.ico
