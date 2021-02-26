@@ -1,11 +1,13 @@
 site_name: OpenBlocks Docs
+copyright: Copyright &copy; 2021 OpenBlocks
+
 repo_url: https://github.com/OpenBlocksTeam/openblocks-app
 repo_name: OpenBlocksTeam/openblocks-app
 edit_uri: https://github.com/OpenBlocksTeam/openblocks-docs/edit/main/docs/
+
 theme:
   name: material
   favicon: images/favicon.ico
-  copyright: Copyright &copy; 2021 OpenBlocks
   palette:
     primary: blue
     accent: pink
