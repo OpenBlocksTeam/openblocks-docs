@@ -5,11 +5,11 @@ What are modules and what it does? Well you can read it here!
 A module is a piece of code that can be loaded and unloaded at runtime, giving or removing a feature to OpenBlocks.
 
 So, there are 5 Important Types of modules in OpenBlocks: (we'll add more soon)
- - `PROJECT_MANAGER`: Manages where the projects are located, are written, and are read.
- - `PROJECT_PARSER`: Parses files (that you can get from `PROJECT_MANAGER`) into a Layout, and Code.
- - `PROJECT_GUI_LAYOUT`: Displays a View that allow the user to visualize / edit the layout.
- - `PROJECT_GUI_CODE`: Displays a View that allow the user to visualize / edit the Code.
- - `PROJECT_COMPILER`: Compiles the Layout and Code into a single ready-to-install APK file.
+- `PROJECT_MANAGER`: Manages where the projects are located, are written, and are read.
+- `PROJECT_PARSER`: Parses files (that you can get from `PROJECT_MANAGER`) into a Layout, and Code.
+- `PROJECT_GUI_LAYOUT`: Displays a View that allow the user to visualize / edit the layout.
+- `PROJECT_GUI_CODE`: Displays a View that allow the user to visualize / edit the Code.
+- `PROJECT_COMPILER`: Compiles the Layout and Code into a single ready-to-install APK file.
 
 OpenBlocks need atleast one module of each type for it to work as these modules are important.
 
