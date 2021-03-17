@@ -22,3 +22,16 @@ OpenBlocks is basically an app that you can mod easily! It's open source, change
 This documentation is open source, you can contribute to it on [github](https://github.com/OpenBlocksTeam/openblocks-docs).
 
 Happy coding!
+
+#### Main Features
+- Open Source
+- No coding Experience Required!
+- Drag And Drop Similar To scratch and Sketchware 
+- Modules System So that The You can customize the app as it is your own :)
+- Convert Your projects to android Studio's code
+- Support for Multiple Languages
+- Maintained? YES!
+
+
+#### Disclaimer: 
+THIS APP WAS INDEPENDENTLY DEVELOPED FROM SCRATCH AND SKETCHWARE. 
