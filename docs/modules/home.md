@@ -10,6 +10,7 @@ So, there are 5 Important Types of modules in OpenBlocks: (we'll add more soon)
 - `PROJECT_GUI_LAYOUT`: Displays a View that allow the user to visualize / edit the layout.
 - `PROJECT_GUI_CODE`: Displays a View that allow the user to visualize / edit the Code.
 - `PROJECT_COMPILER`: Compiles the Layout and Code into a single ready-to-install APK file.
+- `BLOCKS_COLLECTION`: Collection of blocks that will later be used in the code editor
 
 OpenBlocks need atleast one module of each type for it to work as these modules are important.
 
