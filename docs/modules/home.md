@@ -1,6 +1,3 @@
-# Modules
-What are modules and what it does? Well you can read it here!
-
 ## What is a module?
 A module is a piece of code that can be loaded and unloaded at runtime, giving or removing a feature to OpenBlocks.
 
