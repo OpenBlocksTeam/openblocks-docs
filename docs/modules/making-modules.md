@@ -1,4 +1,4 @@
-## Creating your own module
+# Creating your own module
  - Choose what type of module do you want to make? [List of module types](home.md#what-is-a-module)
  - Create a new project on android studio
  - Clone the [openblocks-module-interface](github.com/OpenBlocksTeam/openblocks-module-interface) library

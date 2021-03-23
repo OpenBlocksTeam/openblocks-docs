@@ -1,4 +1,4 @@
-## What is a module?
+# What is a module?
 A module is a piece of code that can be loaded and unloaded at runtime, giving or removing a feature to OpenBlocks.
 
 So, there are 5 Important Types of modules in OpenBlocks: (we'll add more soon)
